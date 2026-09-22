@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developers.cloudflare.com/workers/wrangler/configuration/",
+  "name": "shopify-proxy-analytics",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "vars": {
+    "STOREFRONT_API_VERSION": "2026-10",
+    "ALLOWED_ORIGIN": "*"
+  }
+}
