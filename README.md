@@ -6,7 +6,7 @@ Needed since Shopify deprecated the `shopify_y` / `shopify_s` cookies (April 30,
 
 ## 1-click deploy
 
-[![Deploy to Cloudflare](https://deploy.workers.dev/button)](https://deploy.workers.dev/?url=https://github.com/YOUR-ORG/shopify-proxy-analytics)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/smootify/shopify-proxy-analytics)
 
 1. Click the button, log in to Cloudflare, confirm the deploy.
 2. You get a URL like `https://shopify-proxy-analytics.<your-account>.workers.dev`.
